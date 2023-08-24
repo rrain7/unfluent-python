@@ -162,3 +162,5 @@ cython_debug/
 
 # macos
 .DS_Store
+
+./ipynb_checkpoints
